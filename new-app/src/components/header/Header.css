@@ -1,0 +1,16 @@
+.div
+{
+  height: 100px;
+  background-color: gainsboro;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head
+{
+    font-family:'Times New Roman', Times, serif;
+    color: #1B4B36;
+    font-size: 55px;
+    font-style: italic;
+}
